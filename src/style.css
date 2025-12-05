@@ -565,3 +565,17 @@ ul {
     }
   }
 }
+
+/* Page Header */
+.page-header {
+  padding: 120px 0 60px;
+  background: radial-gradient(circle at center, rgba(131, 58, 180, 0.15) 0%, rgba(5, 5, 5, 0) 70%);
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--text-gray);
+  font-size: 0.9rem;
+  font-weight: 500;
+}
